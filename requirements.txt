@@ -1,0 +1,4 @@
+logging
+telethon 
+python-dotenv 
+asyncio
