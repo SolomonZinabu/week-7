@@ -83,7 +83,7 @@ async def main():
         media_dir = 'photos'
         os.makedirs(media_dir, exist_ok=True)
 
-        with open('scraped_data.csv', 'a', newline='', encoding='utf-8') as file:  # Changed file name
+        with open('data/telegram_scraped_data.csv', 'a', newline='', encoding='utf-8') as file:  # Changed file name
             writer = csv.writer(file)
             writer.writerow(['Channel Title', 'Channel Username', 'ID', 'Message', 'Date', 'Media Path'])
             
