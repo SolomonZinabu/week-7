@@ -2,3 +2,7 @@ logging
 telethon 
 python-dotenv 
 asyncio
+pandas 
+numpy 
+matplotlib 
+seaborn

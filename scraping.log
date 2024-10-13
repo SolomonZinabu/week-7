@@ -1,57 +1,24 @@
-2024-10-11 11:07:41,853 - ERROR - Error in main function: No phone number or bot token provided.
-2024-10-11 11:23:49,482 - ERROR - Error in main function: No phone number or bot token provided.
-2024-10-11 11:24:19,105 - ERROR - Error in main function: No phone number or bot token provided.
-2024-10-11 11:24:36,995 - ERROR - Error in main function: No phone number or bot token provided.
-2024-10-11 11:26:21,458 - ERROR - Error in main function: No phone number or bot token provided.
-2024-10-11 11:27:43,614 - INFO - Connecting to 149.154.167.51:443/TcpFull...
-2024-10-11 11:27:45,132 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
-2024-10-11 11:27:45,880 - INFO - Phone migrated to 4
-2024-10-11 11:27:46,005 - INFO - Reconnecting to new data center 4
-2024-10-11 11:27:46,124 - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
-2024-10-11 11:27:46,124 - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
-2024-10-11 11:27:46,124 - INFO - Connecting to 149.154.167.91:443/TcpFull...
-2024-10-11 11:27:47,317 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
-2024-10-11 11:28:15,436 - INFO - Client started successfully.
-2024-10-11 11:28:15,545 - WARNING - No last ID file found for @DoctorsET. Starting from 0.
-2024-10-11 11:28:16,039 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
-2024-10-11 11:28:16,962 - INFO - Downloaded media for message ID 864.
-2024-10-11 11:28:16,962 - INFO - Processed message ID 864 from @DoctorsET.
-2024-10-11 11:28:24,148 - INFO - Saved last processed ID 864 for @DoctorsET.
-2024-10-11 11:28:24,148 - INFO - Scraped data from @DoctorsET.
-2024-10-13 12:00:14,375 - INFO - Connecting to 149.154.167.91:443/TcpFull...
-2024-10-13 12:00:14,503 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
-2024-10-13 12:00:15,536 - INFO - Client started successfully.
-2024-10-13 12:00:24,015 - INFO - Saved last processed ID 864 for @DoctorsET.
-2024-10-13 12:00:24,015 - INFO - No new messages found for @DoctorsET.
-2024-10-13 12:00:24,017 - INFO - Scraped data from @DoctorsET.
-2024-10-13 12:02:12,319 - INFO - Connecting to 149.154.167.91:443/TcpFull...
-2024-10-13 12:02:12,448 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
-2024-10-13 12:02:13,353 - INFO - Client started successfully.
-2024-10-13 12:02:21,817 - INFO - Saved last processed ID 864 for @DoctorsET.
-2024-10-13 12:02:21,817 - INFO - No new messages found for @DoctorsET.
-2024-10-13 12:02:21,817 - INFO - Scraped data from @DoctorsET.
-2024-10-13 12:16:23,319 - ERROR - Error in main function: No phone number or bot token provided.
-2024-10-13 12:17:37,467 - INFO - Connecting to 149.154.167.91:443/TcpFull...
-2024-10-13 12:17:37,637 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
-2024-10-13 12:17:38,563 - INFO - Client started successfully.
-2024-10-13 12:17:38,564 - ERROR - Error in main function: [Errno 2] No such file or directory: '../data/telegram_scraped_data.csv'
-2024-10-13 12:17:54,600 - INFO - Connecting to 149.154.167.91:443/TcpFull...
-2024-10-13 12:17:54,845 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
-2024-10-13 12:17:55,749 - INFO - Client started successfully.
-2024-10-13 12:17:55,750 - ERROR - Error in main function: [Errno 2] No such file or directory: '../data/telegram_scraped_data.csv'
-2024-10-13 12:19:21,994 - INFO - Connecting to 149.154.167.91:443/TcpFull...
-2024-10-13 12:19:22,124 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
-2024-10-13 12:19:22,867 - INFO - Client started successfully.
-2024-10-13 12:19:22,867 - ERROR - Error in main function: [Errno 2] No such file or directory: '../data/telegram_scraped_data.csv'
-2024-10-13 12:19:50,014 - INFO - Connecting to 149.154.167.91:443/TcpFull...
-2024-10-13 12:19:50,138 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
-2024-10-13 12:19:51,086 - INFO - Client started successfully.
-2024-10-13 12:19:59,529 - INFO - Saved last processed ID 864 for @DoctorsET.
-2024-10-13 12:19:59,530 - INFO - No new messages found for @DoctorsET.
-2024-10-13 12:19:59,530 - INFO - Scraped data from @DoctorsET.
-2024-10-13 12:20:36,518 - INFO - Connecting to 149.154.167.91:443/TcpFull...
-2024-10-13 12:20:36,652 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
-2024-10-13 12:20:37,664 - INFO - Client started successfully.
-2024-10-13 12:20:46,192 - INFO - Saved last processed ID 864 for @DoctorsET.
-2024-10-13 12:20:46,193 - INFO - No new messages found for @DoctorsET.
-2024-10-13 12:20:46,193 - INFO - Scraped data from @DoctorsET.
+2024-10-13 12:37:37,216 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2024-10-13 12:37:39,148 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2024-10-13 12:37:39,893 - INFO - Phone migrated to 4
+2024-10-13 12:37:40,135 - INFO - Reconnecting to new data center 4
+2024-10-13 12:37:40,391 - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2024-10-13 12:37:40,392 - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2024-10-13 12:37:40,392 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-10-13 12:37:42,223 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-13 12:37:56,827 - INFO - Client started successfully.
+2024-10-13 12:38:05,286 - INFO - Saved last processed ID 864 for @DoctorsET.
+2024-10-13 12:38:05,314 - INFO - No new messages found for @DoctorsET.
+2024-10-13 12:38:05,315 - INFO - Scraped data from @DoctorsET.
+2024-10-13 12:38:16,749 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-10-13 12:38:16,888 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-13 12:38:17,714 - INFO - Client started successfully.
+2024-10-13 12:38:26,323 - INFO - Saved last processed ID 864 for @DoctorsET.
+2024-10-13 12:38:26,323 - INFO - No new messages found for @DoctorsET.
+2024-10-13 12:38:26,323 - INFO - Scraped data from @DoctorsET.
+2024-10-13 19:27:05,976 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-10-13 19:27:06,101 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-13 19:27:06,939 - INFO - Client started successfully.
+2024-10-13 19:27:15,688 - INFO - Saved last processed ID 864 for @DoctorsET.
+2024-10-13 19:27:15,688 - INFO - No new messages found for @DoctorsET.
+2024-10-13 19:27:15,688 - INFO - Scraped data from @DoctorsET.
