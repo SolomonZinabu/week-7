@@ -1,8 +1,24 @@
+# General libraries for scraping and data manipulation
 logging
-telethon 
-python-dotenv 
+telethon
+python-dotenv
 asyncio
-pandas 
-numpy 
-matplotlib 
+pandas
+numpy
+matplotlib
 seaborn
+
+# Database interaction
+sqlalchemy
+psycopg2-binary
+
+# Jupyter Notebook
+jupyter
+
+# DBT for data transformations
+dbt-core
+dbt-postgres
+
+# For future API development (Task 4)
+uvicorn
+fastapi
