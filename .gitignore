@@ -3,3 +3,6 @@ photos
 venv
 .env
 data
+detection_results
+detection_results2
+
