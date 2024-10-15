@@ -76,3 +76,41 @@ Run the transformations:
 
 dbt run
 The DBT model aggregates the data by day and channel, counting the number of messages and media shared.
+
+
+---
+
+### **YOLO Object Detection**
+
+### 4. YOLO Object Detection
+
+#### 4.1. Task 3: Object Detection Using YOLO (`task-3.ipynb`)
+
+In Task 3, we apply object detection using the YOLOv5 model. Run the `task-3.ipynb` notebook to perform object detection on the images scraped from Telegram.
+
+- **Input**: Images from `photos/`
+- **Output**: Detected images and CSV results in `detection_results/`
+
+You can execute the notebook as follows:
+
+jupyter notebook notebooks/task-3.ipynb
+
+
+
+---
+
+### **Exposing Data via FastAPI and Additional Information**
+
+### 5. Exposing Data via FastAPI
+
+#### 5.1. Task 4: FastAPI for Exposing Data (`task-4.py`)
+
+The cleaned data and detection results are exposed through an API using **FastAPI**.
+
+- **/messages/**: Fetches cleaned message data.
+- **/detections/{image_name}**: Fetches object detection results for a specified image.
+
+Run FastAPI using the following command:
+
+uvicorn main:app --reload
+
